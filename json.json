@@ -1,0 +1,23 @@
+[{
+		"firstName": "Tejas",
+		"lastName": "Sai",
+		"age": 23,
+		"marks": [{
+			"english": 23
+		}, {
+			"math": 28
+		}],
+		"address": "hyd"
+	},
+	{
+		"firstName": "Sai",
+		"lastName": "Tejas",
+		"age": 25,
+		"marks": [{
+			"english": 20
+		}, {
+			"math": 28
+		}],
+		"address": "kcg"
+	}
+]
